@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/collaborative_paintapp/static/css/main.3ac7c54e.css",
-    "main.js": "/collaborative_paintapp/static/js/main.d620c2f8.js",
+    "main.js": "/collaborative_paintapp/static/js/main.3f16d9d3.js",
     "static/js/787.cd00acc4.chunk.js": "/collaborative_paintapp/static/js/787.cd00acc4.chunk.js",
     "index.html": "/collaborative_paintapp/index.html",
     "main.3ac7c54e.css.map": "/collaborative_paintapp/static/css/main.3ac7c54e.css.map",
-    "main.d620c2f8.js.map": "/collaborative_paintapp/static/js/main.d620c2f8.js.map",
+    "main.3f16d9d3.js.map": "/collaborative_paintapp/static/js/main.3f16d9d3.js.map",
     "787.cd00acc4.chunk.js.map": "/collaborative_paintapp/static/js/787.cd00acc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ac7c54e.css",
-    "static/js/main.d620c2f8.js"
+    "static/js/main.3f16d9d3.js"
   ]
 }
